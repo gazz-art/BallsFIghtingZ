@@ -13,6 +13,4 @@ An open-source physics-based ball combat simulation and arena game. Fight agains
 * **Launcher**: Batch script (`PLAY.bat`)
 
 ## 🎮 How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/gazz-art/BallsFIghtingZ.git](https://github.com/gazz-art/BallsFIghtingZ.git)
+1. You can run this in any Like vs code or an html viewer
